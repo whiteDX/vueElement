@@ -6,6 +6,7 @@ Vue.use(Router)
 /* Layout */
 import Layout from '@/layout'
 // /test
+// test2
 /* Router Modules */
 import componentsRouter from './modules/components'
 import chartsRouter from './modules/charts'
